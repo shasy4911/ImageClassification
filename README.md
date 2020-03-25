@@ -6,8 +6,8 @@ The CNN architecture for Image classification is implemented in Keras. Also, the
 
 ## File Structure:
 
-### Model- predict.py
+Model- predict.py
 
-### View- ClientApp.py(also serves as entry point for API to receive inputs and respond the processed input as output)
+View- ClientApp.py(also serves as entry point for API to receive inputs and respond the processed input as output)
 
-### Template- templates/index.html(UI component)
+Template- templates/index.html(UI component)
